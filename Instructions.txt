@@ -10,4 +10,3 @@ Copy the files into the httpd docs folder.
 
 "Hello" 
 "This is the new line" 
-"This is the wrong line" 
